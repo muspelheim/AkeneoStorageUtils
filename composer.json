@@ -22,7 +22,7 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "Akeneo\\Component\\StorageUtils\\": "" }
+        "psr-4": { "Akeneo\\Tool\\Component\\StorageUtils\\": "" }
     },
     "minimum-stability": "stable",
     "extra": {
